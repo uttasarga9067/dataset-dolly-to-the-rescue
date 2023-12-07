@@ -1,19 +1,6 @@
 # dataset-dolly-to-the-rescue
 
----
-license: apache-2.0
-language:
-- en
-library_name: transformers
-tags:
-- biology
-- chemistry
-- text-generation
-- inference
----
-# Model Card for Model ID
-
-01GangaPutraBheeshma/facebook_opt2 is an open-source language model, a fine-tuned version of facebook/opt-350m, and Supervised Finetuning was used to retrain and finetune the model - a strategy inspired by offline transfer reinforcement learning. This version of Model learn from mixed-quality data without preference labels, delivering exceptional performance. Despite the simple approach, my commitment is to develop a high-performance, commercially viable, open-source large language model, and I continue to make significant strides toward this vision.
+01GangaPutraBheeshma/databricks-facebook-opt2-ft-dolly-UT is an open-source language model, a fine-tuned version of facebook/opt-350m, and Supervised Finetuning was used to retrain and finetune the model - a strategy inspired by offline transfer reinforcement learning. This version of Model learn from mixed-quality data without preference labels, delivering exceptional performance. Despite the simple approach, my commitment is to develop a high-performance, commercially viable, open-source large language model, and I continue to make significant strides toward this vision.
 
 ## Model Details
 
